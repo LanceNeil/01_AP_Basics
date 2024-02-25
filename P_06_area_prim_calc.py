@@ -1,5 +1,5 @@
 # Ask the user for the width and height
-# 9assume they put in valid data)
+# assume they put in valid data)
 width = float(input("Width: "))
 height = float(input("Height: "))
 
